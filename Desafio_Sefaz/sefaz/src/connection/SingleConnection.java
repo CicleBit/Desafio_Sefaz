@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 
 public class SingleConnection {
 
-	private static String dB = "jdbc:postgresql://localhost:5432/desafio_DB?autoReconnect=true";
+	private static String dB = "jdbc:postgresql://localhost:5432/desafioSefazDB?autoReconnect=true";
 	
 	private static String password = "admin";
 	

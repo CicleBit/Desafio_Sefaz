@@ -4,9 +4,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Welcome</title>
+<title>Acccess Granted</title>
 </head>
 <body>
-<h3>Mr. Administrator</h3>
+	<h3>Welcome</h3>
+	<br/>
+	<a href="cadastrousuario.jsp"> Cadastro de Usuário</a>
 </body>
 </html>

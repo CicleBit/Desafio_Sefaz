@@ -13,7 +13,7 @@
 	<input type="text" id="login" name="login">
 	<br/>
 	Password: 
-	<input type="text" id="password" name="password">
+	<input type="password" id="password" name="password">
 	<br/>
 	<input type="submit" value="Access">
 	</form>
