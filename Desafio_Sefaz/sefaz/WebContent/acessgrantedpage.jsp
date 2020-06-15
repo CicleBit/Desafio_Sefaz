@@ -9,6 +9,6 @@
 <body>
 	<h3>Welcome</h3>
 	<br/>
-	<a href="cadastrousuario.jsp"> Cadastro de Usuário</a>
+	<a href="SaveUser?action=listallusers"> Cadastro de Usuário</a>
 </body>
 </html>
